@@ -18,7 +18,7 @@ PIP | Title | Type
  [2](https://github.com/ailabstw/PIPs/blob/master/PIP-0002.md) | [Architecture](https://github.com/ailabstw/PIPs/blob/master/PIP-0002.md) | Intro
  [3](https://github.com/ailabstw/PIPs/blob/master/PIP-0003.md) | [Code Architecture: Start Node](https://github.com/ailabstw/PIPs/blob/master/PIP-0003.md) | Code
  [4](https://github.com/ailabstw/PIPs/blob/master/PIP-0004.md) | [Stop Node](https://github.com/ailabstw/PIPs/blob/master/PIP-0004.md) | code
- 5 | Add Peer | Code
+ [5](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | [Add Peer](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | Code
  6 | Handle Message | Code
  7 | Remove Peer | Code
  8 | Synchronization | Code
