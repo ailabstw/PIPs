@@ -19,28 +19,4 @@ PIP | Title | Type
  [3](https://github.com/ailabstw/PIPs/blob/master/PIP-0003.md) | [Code Architecture: Start Node](https://github.com/ailabstw/PIPs/blob/master/PIP-0003.md) | Code
  [4](https://github.com/ailabstw/PIPs/blob/master/PIP-0004.md) | [Stop Node](https://github.com/ailabstw/PIPs/blob/master/PIP-0004.md) | code
  [5](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | [Add Peer](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | Code
- 6 | Handle Message | Code
- 7 | Remove Peer | Code
- 8 | Synchronization | Code
- 9 | Handle Oplogs | Code
- 10 | Handle Pending Oplogs | Code
- 11 | Object Operation: Create | Code
- 12 | Object Operation: Update | Code
- 13 | Object Operation: Delete | Code
- 14 | Join Friend / Approve Friend | Code
- 15 | Join Board / Approve Board | Code
- 16 | Join Device / Approve Device | Code
- 15 | Join-Key | Code
- 16 | Operation-Key | Code
- 17 | Sign Oplog | Code
- 18 | Verify Oplog | Code
- 19 | Send Data | Code
- 20 | Delete Entity | Code
- 21 | Revoke Member | Code
- 22 | Transfer Master | Code
- 23 | Leave Entity | Code
- 24 | Revoke Device | Code
- 25 | Revoke Me | Code
- 25 | LockMap | Code
- 26 | DB | Code
- 27 | P2P | Code
+ [6](https://github.com/ailabstw/PIPs/blob/master/PIP-0006.md) | [Development Philosophy](https://github.com/ailabstw/PIPs/blob/master/PIP-0006.md) | Intro
