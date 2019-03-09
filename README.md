@@ -3,7 +3,7 @@ PIPs
 PTT.ai Improvement Proposals
 
 As inspired by PEPs (Python) / BEPs (Bittorrent) / BIPs (Bitcoin) / EIPs (Ethereum),
-PIPs intends to document everything related to PTT.ai framework ([go-pttai](https://github.com/ailabstw/go-pttai), [pttai.js](https://github.com/ailabstw/pttai.js)).
+PIPs intends to document everything related to PTT.ai framework ([intro](https://docs.google.com/presentation/d/1p84VUW7dsWIvf_QBrmCVOYS_SQ6F0tkt5zG0vuMYnUA/edit#slide=id.p), [go-pttai](https://github.com/ailabstw/go-pttai), [pttai.js](https://github.com/ailabstw/pttai.js)).
 
 For now, we just freely write whatever (documenting / suggestion) we think necessarily.
 
