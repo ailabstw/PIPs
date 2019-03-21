@@ -20,3 +20,4 @@ PIP | Title | Type
  [4](https://github.com/ailabstw/PIPs/blob/master/PIP-0004.md) | [Stop Node](https://github.com/ailabstw/PIPs/blob/master/PIP-0004.md) | code
  [5](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | [Add Peer](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | Code
  [6](https://github.com/ailabstw/PIPs/blob/master/PIP-0006.md) | [Development Philosophy](https://github.com/ailabstw/PIPs/blob/master/PIP-0006.md) | Intro
+ [7](https://github.com/ailabstw/PIPs/blob/master/PIP-0007.md) | [Oplog and Merkle-Tree](https://github.com/ailabstw/PIPs/blob/master/PIP-0007.md) | Intro
