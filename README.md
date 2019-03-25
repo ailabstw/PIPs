@@ -21,3 +21,4 @@ PIP | Title | Type
  [5](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | [Add Peer](https://github.com/ailabstw/PIPs/blob/master/PIP-0005.md) | Code
  [6](https://github.com/ailabstw/PIPs/blob/master/PIP-0006.md) | [Development Philosophy](https://github.com/ailabstw/PIPs/blob/master/PIP-0006.md) | Intro
  [7](https://github.com/ailabstw/PIPs/blob/master/PIP-0007.md) | [Oplog and Merkle-Tree](https://github.com/ailabstw/PIPs/blob/master/PIP-0007.md) | Intro
+ [8](https://github.com/ailabstw/PIPs/blob/master/PIP-0008.md) | [Object](https://github.com/ailabstw/PIPs/blob/master/PIP-0008.md) | Intro
