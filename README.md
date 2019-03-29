@@ -23,3 +23,4 @@ PIP | Title | Type
  [7](https://github.com/ailabstw/PIPs/blob/master/PIP-0007.md) | [Oplog and Merkle-Tree](https://github.com/ailabstw/PIPs/blob/master/PIP-0007.md) | Intro
  [8](https://github.com/ailabstw/PIPs/blob/master/PIP-0008.md) | [Object](https://github.com/ailabstw/PIPs/blob/master/PIP-0008.md) | Intro
  [9](https://github.com/ailabstw/PIPs/blob/master/PIP-0009.md) | [Entity](https://github.com/ailabstw/PIPs/blob/master/PIP-0009.md) | Intro
+ [10](https://github.com/ailabstw/PIPs/blob/master/PIP-0010.md) | [Person](https://github.com/ailabstw/PIPs/blob/master/PIP-0010.md) | Intro
