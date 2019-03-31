@@ -25,3 +25,4 @@ PIP | Title | Type
  [9](https://github.com/ailabstw/PIPs/blob/master/PIP-0009.md) | [Entity](https://github.com/ailabstw/PIPs/blob/master/PIP-0009.md) | Intro
  [10](https://github.com/ailabstw/PIPs/blob/master/PIP-0010.md) | [Person](https://github.com/ailabstw/PIPs/blob/master/PIP-0010.md) | Intro
  [11](https://github.com/ailabstw/PIPs/blob/master/PIP-0011.md) | [Sync](https://github.com/ailabstw/PIPs/blob/master/PIP-0011.md) | Intro
+ [12](https://github.com/ailabstw/PIPs/blob/master/PIP-0012.md) | [Join](https://github.com/ailabstw/PIPs/blob/master/PIP-0012.md) | Intro
